@@ -1,3 +1,5 @@
+Решение [домашнего задания](https://github.com/netology-code/javaqa-homeworks/tree/master/ci) к занятию «Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs».
+
 ## Cчетчики Jаcoco
 * BRANCH  - считает процент выполнения кода в ветках if/else/switch; 
 В итоге выбрал этот счетчик, так как метод в задании создан с использованием if, for. 
